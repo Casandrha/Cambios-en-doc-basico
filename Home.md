@@ -1,5 +1,5 @@
 # Cambios-en-doc-basico
-
+<!--
 
 <!DOCTYPE html>
 <html>
@@ -14,3 +14,5 @@
 	<p> <a href="http://javascriptbook.com/code/c01/add-content.html">Fuente: Jon Duckett</a> </p>
   </body>
 </html>
+
+-->
